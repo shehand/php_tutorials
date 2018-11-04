@@ -1,0 +1,2 @@
+1. how to calculate the fibbonacci series
+2. what should be the break condition for the loop
