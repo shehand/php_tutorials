@@ -1,0 +1,2 @@
+1. build an algorithm to a problem
+2. make the algorithm much efficient, because there is a bruteforce solution for this problem
