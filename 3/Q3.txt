@@ -1,0 +1,4 @@
+1. how the input gives node name?
+2. how to give the input in terminal
+3. how to find A,B,C without knowing the node name
+4. how to create a graph in php
