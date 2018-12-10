@@ -1,2 +1,2 @@
-# php_tutorials
+# PHP Tutorials
 All php tutorials
